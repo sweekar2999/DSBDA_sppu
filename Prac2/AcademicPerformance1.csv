@@ -1,0 +1,16 @@
+﻿RollNo,First_name,Last_name,Div,Age,Pointer
+6,Arman,Patel,A,21,8
+7,Faizan,Khan,A,21,8.1
+9,Digvijay,Parmar,NULL,20,8.2
+10,Yogita,Ghadage,A,20,8.3
+11,Furquan,Nawazish,A,21,8.4
+12,Sweekar ,Dhaigude,A,20,8.5
+13,Ravikant,Chauhan,A,50,8.6
+14,Ashutosh,Dinde,A,21,8.7
+15,Aniket ,Ekshinge,A,NULL,8.9
+16,Divesh ,Achhra,A,22,9
+17,Prathmesh ,Gaikwad,A,21,9.1
+18,Nikhill,Jagwani,B,NULL,9.2
+19,Pratik,Wadikar,B,21,9.3
+20,Vedant,Khedekar,B,22,15
+21,Ishwar,Godse,B,100,8.5
